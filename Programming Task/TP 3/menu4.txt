@@ -1,0 +1,4 @@
+===MEALS 1
+M01;Thai Beef Salad;52000
+===MEALS 2
+M01;Thai Beef Salad;53000

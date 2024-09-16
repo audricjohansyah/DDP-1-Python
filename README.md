@@ -1,4 +1,4 @@
-# Programming Foundations 1 - Python Projects
+# Programming Foundations 1 - Python
 This repository contains my projects and assignments completed during the "Programming Foundations 1" course, part of my first semester in the Information Systems program at Universitas Indonesia.
 
 The course focuses on foundational programming concepts using Python, covering topics such as:
